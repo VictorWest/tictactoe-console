@@ -1,18 +1,19 @@
-## Getting Started
+# TICTACTOE CONSOLE GAME
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is my version of the snake game, coded in `Java`. 
 
-## Folder Structure
+[LinkedIn](www.linkedin.com/in/victor-wariboko-west-27787b233)
+[GitHub](https://github.com/VictorWest)
 
-The workspace contains two folders by default, where:
+## STEPS TO SETUP PROJECT LOCALLY
+### Ensure you have Java installed on your system.
+`java -version`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Enter the `src` folder
+`cd src`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Compile the App.java file
+`javac *.java`
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Run the compiled App file
+`java App`
